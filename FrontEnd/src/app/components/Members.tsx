@@ -36,7 +36,7 @@ export function Members() {
       role: t("pediatricNeonatologyNurse"),
       specialty: t("puericulture"),
       bio: "Plus de 2 ans d'expérience en médecine néonatale, spécialisée dans la thermorégulation des nourrissons prématurés et les protocoles de soins thermiques basés sur des preuves.",
-      image: "/assets/images/amal-bio.jpg",
+      image: "/assets/images/amal-bio2.jpg",
       tags: ["USIN", "Thermorégulation", "nourrissons prématurés"],
       socials: {
         // linkedin: "https://www.linkedin.com/in/dr-sirine-louhichi",
